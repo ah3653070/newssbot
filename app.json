@@ -1,14 +1,14 @@
 {
     "name": "Song-Downloader-Bot",
     "description": "A BOT TO DOWNLOAD MUSIC FROM YOUTUBE.",
-    "logo": "https://telegra.ph/file/745badebb188c6da28a67.jpg",
+    "logo": "https://telegra.ph/file/3880297b40011da32a0aa.jpg",
     "keywords": [
         "song",
         "youtube",
         "Telegram",
-        "nazriya"
+        "Royalbotz"
     ],
-    "website": "https://github.com/MR-JINN-OF-TG",
+    "website": "t.me/Royalbotz",
     "repository": "https://github.com/MR-JINN-OF-TG/Song-Downloader-Bot",
     "success_url": "https://t.me/NAZRIYASUPPORT",
     "env": {
